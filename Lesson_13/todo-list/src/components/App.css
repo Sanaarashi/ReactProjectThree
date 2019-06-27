@@ -1,0 +1,9 @@
+body {
+  background: #E5E5E5;
+}
+.App {
+  position: absolute;
+  width: 1440px;
+  height: 768px;
+  background: linear-gradient(180deg, #CA94FF 0%, rgba(70, 6, 134, 0.81) 100%);
+}
